@@ -47,7 +47,7 @@
 ```ini
 [OPERATOR_PROFILE]
 Name         = Muhamad Sultani Qalbi Nursalmi (Sultani / Aldi)
-Program      = S1 Teknik Komputer — Telkom University (2025–2026)
+Program      = S1 Teknik Komputer — Telkom University (2024–today)
 Core_Focus   = Full-Stack Web Architecture • IoT Hardware Engineering • Capital Market Valuation
 Mantra       = "Code the system. Read the market. Build the future."
 ```
