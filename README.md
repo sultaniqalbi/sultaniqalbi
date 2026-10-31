@@ -30,3 +30,7 @@ Riset valuasi: AADI, AMMN (DCF, WACC). Rekomendasi mingguan: BBCA, BMRI, BBRI, P
 
 - Email: m.nursalmi@gmail.com
 - Instagram: [@sultaniqalbi](https://instagram.com/sultaniqalbi)
+
+## Aktivitas
+
+<img src="acrade-contributions.svg" alt="Grafik kontribusi GitHub" width="100%">
